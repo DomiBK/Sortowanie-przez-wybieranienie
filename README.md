@@ -1,0 +1,1 @@
+# Sortowanie-przez-wybieranienie
