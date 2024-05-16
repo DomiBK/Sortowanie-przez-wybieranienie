@@ -14,3 +14,6 @@ Twoim zadaniem jest napisać program, który generuje tablicę losowych liczb o 
 Na ocenę cel:
 Twoim zadaniem jest napisać program, który tworzy tablicę losowych liczb o długości podanej przez użytkownika, sortuje ją algorytmem sortowania pozycyjnego, a następnie prezentuje użytkownikowi zarówno początkową tablicę, jak i jej posortowaną wersję.
 https://eduinf.waw.pl/inf/alg/003_sort/0024.php
+
+
+![image](https://github.com/DomiBK/Sortowanie-przez-wybieranienie/assets/148908251/1b643e52-8862-428c-979e-980058eeacf2)
